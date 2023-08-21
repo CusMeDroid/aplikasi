@@ -7,9 +7,8 @@ Aplikasi ini bertujuan sebagai metode belajar dan menghafal kosakata bahasa Arab
 
 # Perubahan
 - UI/UX Mode permainan (Lanskap)
-- 10 Daftar isi
-- 60 Daftar isi kosakata
-- 60 Gambar
+- 10 Daftar isi & Gambar
+- 60 Daftar isi kosakata & Gambar
 - 10 Kuis
 - Berbagi aplikasi
 
