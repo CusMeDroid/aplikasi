@@ -9,6 +9,7 @@ Aplikasi ini bertujuan sebagai metode belajar dan menghafal kosakata bahasa Arab
 - UI/UX Mode permainan (Lanskap)
 - 10 Daftar isi & Gambar
 - 60 Daftar isi kosakata & Gambar
+- Latar musik lisensi iyortml
 - 10 Kuis
 - Berbagi aplikasi
 
