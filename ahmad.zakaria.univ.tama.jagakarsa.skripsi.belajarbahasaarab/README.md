@@ -26,7 +26,7 @@ Musik On/Off              |               Berbagi Aplikasi
 Materi     Tentang    Mulai Kuis
   |           |           |
 7          Pembuat    10 Pertanyaan acak
-Daftar     Aplikasi     
+Daftar     Aplikasi   Dengan batas waktu
 Isi
   |
 10
