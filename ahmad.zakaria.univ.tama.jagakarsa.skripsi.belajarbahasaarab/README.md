@@ -5,6 +5,14 @@ Aplikasi ini bertujuan sebagai metode belajar dan menghafal kosakata bahasa Arab
 
 [<img alt="Logo" title="Logo" width="30%" src="https://raw.githubusercontent.com/CusMeDroid/aplikasi/main/ahmad.zakaria.univ.tama.jagakarsa.skripsi.belajarbahasaarab/ic_launcher_ba.png" />](https://raw.githubusercontent.com/CusMeDroid/aplikasi/main/ahmad.zakaria.univ.tama.jagakarsa.skripsi.belajarbahasaarab/ic_launcher_ba.png)
 
+# Perubahan
+- UI/UX Mode permainan (Lanskap)
+- 10 Daftar isi
+- 60 Daftar isi kosakata
+- 60 Gambar
+- 10 Kuis
+- Berbagi aplikasi
+
 ```txt
 PROGRAM STUDI S1 ILMU KOMPUTER FAKULTAS TEKNIK DAN ILMU KOMPUTER
 UNIVERSITAS TAMA JAGAKARSA
