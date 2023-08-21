@@ -7,11 +7,34 @@ Aplikasi ini bertujuan sebagai metode belajar dan menghafal kosakata bahasa Arab
 
 # Perubahan
 - UI/UX Mode permainan (Lanskap)
-- 10 Daftar isi & Gambar
-- 60 Daftar isi kosakata & Gambar
+- 7 Daftar isi & Gambar
+- 60 Total kosakata & Gambar
 - Latar musik lisensi iyortml
 - 10 Kuis
 - Berbagi aplikasi
+
+# Skema
+```txt
+                    Main Aktivitas
+                          |
+       __________________________________________
+      |                                          |
+Musik On/Off              |               Berbagi Aplikasi
+                          |
+   _______________________
+  |           |           |
+Materi     Tentang    Mulai Kuis
+  |           |           |
+7          Pembuat    10 Pertanyaan acak
+Daftar     Aplikasi     
+Isi
+  |
+10
+per-Daftar
+Isi
+  
+
+```
 
 ```txt
 PROGRAM STUDI S1 ILMU KOMPUTER FAKULTAS TEKNIK DAN ILMU KOMPUTER
