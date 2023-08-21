@@ -8,7 +8,7 @@ Aplikasi ini bertujuan sebagai metode belajar dan menghafal kosakata bahasa Arab
 # Perubahan
 - UI/UX Mode permainan (Lanskap)
 - 7 Daftar isi & Gambar
-- 60 Total kosakata & Gambar dari daftar isi
+- 70 Total kosakata & Gambar dari daftar isi
 - Latar musik lisensi iyortml
 - 10 Kuis
 - Berbagi aplikasi
@@ -29,7 +29,7 @@ Materi     Tentang    Mulai Kuis
 Daftar     Aplikasi   Dengan batas waktu
 Isi
   |
-10
+70
 per-Daftar
 Isi
   
