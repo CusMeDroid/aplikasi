@@ -41,4 +41,5 @@ PROGRAM STUDI S1 ILMU KOMPUTER FAKULTAS TEKNIK DAN ILMU KOMPUTER
 UNIVERSITAS TAMA JAGAKARSA
 2023
 ```
-[<img alt="Logo" title="Logo" width="30%" src="https://wahdah.or.id/wp-content/uploads/2016/05/Download-Button-PNG-Image.png" />](https://github.com/CusMeDroid/aplikasi/raw/main/ahmad.zakaria.univ.tama.jagakarsa.skripsi.belajarbahasaarab/app-debug.apk)
+[<img alt="Logo" onClick="alert('Aplikasi ini masih HAK CIPTA CusMeDroid..!')" title="Logo" width="30%" src="https://wahdah.or.id/wp-content/uploads/2016/05/Download-Button-PNG-Image.png" />]()
+
