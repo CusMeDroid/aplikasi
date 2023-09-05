@@ -1,5 +1,8 @@
 <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/CusMeDroid/aplikasi/main/ahmad.zakaria.univ.tama.jagakarsa.skripsi.belajarbahasaarab/ic_launcher_ba.png"><meta name="description" content="Aplikasi ini bertujuan sebagai metode belajar dan menghafal kosakata bahasa Arab dengan mudah, serta memudahkan pengguna dengan bisa mengakses aplikasi ini dimana saja dan kapan saja.">
 
+# HAK CIPTA
+Aplikasi ini sepenuhnya dibuat oleh CusMeDroid..! Kami memberikan waktu untuk anda melunasi sisa pembayaran!!!
+
 # Belajar Kosakata Bahasa Arab
 Aplikasi ini bertujuan sebagai metode belajar dan menghafal kosakata bahasa Arab dengan mudah, serta memudahkan pengguna dengan bisa mengakses aplikasi ini dimana saja dan kapan saja.
 
